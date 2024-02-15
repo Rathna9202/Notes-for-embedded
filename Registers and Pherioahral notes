@@ -1,0 +1,21 @@
+Ram is registered from ,
+    0x00000000 to 0xFFFFFFFF
+
+It consist of some peripharals like,
+    GPIO
+    I2C
+    Timer
+    UART
+
+The peripharals are mapped in different address between 0x00000000 to 0xFFFFFFFF , The details are avail in Data sheet
+The peripharals are mapped in different address is known as Boundary address
+
+GPIOx (x => A,B,C,D,E,F,G,H) each consists of different registers that,
+    modeR
+    OtypeR
+    OspeeedR
+    BSSR
+
+Base address of GPIOA and AHB1 is 0x40020000
+    GPIOA - Peripharal
+    AHB1 - Bus
