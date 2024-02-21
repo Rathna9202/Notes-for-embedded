@@ -1,0 +1,34 @@
+Communications:
+  Serial
+  Parallel
+
+LSB - Least Significant Bit
+MSB - Most Sid=gnificant Bit
+
+Serial Data Communication two methods:
+  Synchronous 
+  Asynchronous
+
+UART - Asynchronous
+USART - Synchronous
+
+Duplex: Phone
+Simplex: Radio
+Half duplex: Walky Talky
+Full duple: UART
+
+Baud rate: 
+  Connection Speed expressed in bits per second
+
+Stop Bit:
+  number of stop bit, 1 or 2 bit consists
+
+Parity Bit
+  odd or even bit
+
+Mode
+  input mode or output bit
+
+Word length
+
+Hardware flow control
