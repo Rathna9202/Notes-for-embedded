@@ -1,0 +1,25 @@
+Linux considering all as file not as a process
+
+From this commend, sudo minicom -s 
+    It opens minicom
+
+Serial port -> shift+A change to ttyACMO
+
+SOC - System On Chip
+|
+SOM - System On Module
+|
+SBC - Single Board Computer
+
+SOC is developed by Core
+Core is developed by Architecture (ARM)
+
+Chip:
+SOC = A5D2x -> x=7
+SOM = PycoreA5D2x
+SBC = Rugged Board A5D2x
+
+in Chip is consists of
+    Flash - RFS, ZImage, .dtb, U.boot, at91 bootstrap
+    RAM - .dtb
+    BootRom & S.RAM - BootRom is inside the SOC
