@@ -1,0 +1,21 @@
+ARM is everyware (all electronic items)
+ARM is reduced instruction set computer(RISC) instruction set architecture(ISA) developed by ARM holdings
+A processor that could deliver,
+  -High performance
+  -Energy Efficient
+ARM Architecture specifies,
+  -Instruction set
+  -Register set
+  -Exception model
+  -Memory model
+  -Debug,Trace and Profiling
+Risc - Reduced Instruction Set Computer
+     - Simple Instructions
+Micro architecture - The build and design of  processor is referred to as micro architecture
+The architecture consists of Microarchitecture and the Microarchitecture consists of Implementations
+ARM processor families group multiple preprocessors, and were named chronologically,
+    starting with Arm1(1985) upto Arm11(2002)
+There are Three types of Profiles.They are,
+  - A application Profile
+  - R Real time Profile
+  - M Micro contoller Profile
