@@ -1,0 +1,5 @@
+.c - Source file
+.i - Preprocessing file
+.s - Assembly file
+.o - Object file
+.elf - Executable file
